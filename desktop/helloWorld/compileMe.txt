@@ -1,0 +1,5 @@
+qmake -project "CONFIG+=console"
+qmake
+make
+cd debug
+helloWorld.exe

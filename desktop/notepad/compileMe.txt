@@ -1,0 +1,5 @@
+qmake -project
+qmake
+make
+cd debug
+notepad.exe
